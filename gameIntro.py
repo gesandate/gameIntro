@@ -9,7 +9,6 @@ clock = pygame.time.Clock()
 
 crash = False
 
-
 while not crash:
 
     for event in pygame.event.get():
